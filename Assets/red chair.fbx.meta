@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 26fdcbd9cb138bc45ba436c50444b7e5
+timeCreated: 1515790602
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: C Orrery stand
+    100002: C Souvenir stand
+    100004: C Viewfinder
+    100006: C Viewfinder.001
+    100008: Chair b 1
+    100010: Chair b 2
+    100012: Chair b 3
+    100014: Chair b desk
+    100016: Chair s 1
+    100018: Chair s 2
+    100020: Chair s 3
+    100022: Chair s desk
+    100024: Cylinder
+    100026: Cylinder.001
+    100028: Desk mid
+    100030: Desk wing L
+    100032: Desk wing r
+    100034: Gem_red_Sphere.013
+    100036: H Controller 1
+    100038: H Controller s 1
+    100040: H Controller s 5
+    100042: H Orrery
+    100044: H Orrery.001
+    100046: H souvenir
+    100048: //RootNode
+    100050: Ticket booth
+    400000: C Orrery stand
+    400002: C Souvenir stand
+    400004: C Viewfinder
+    400006: C Viewfinder.001
+    400008: Chair b 1
+    400010: Chair b 2
+    400012: Chair b 3
+    400014: Chair b desk
+    400016: Chair s 1
+    400018: Chair s 2
+    400020: Chair s 3
+    400022: Chair s desk
+    400024: Cylinder
+    400026: Cylinder.001
+    400028: Desk mid
+    400030: Desk wing L
+    400032: Desk wing r
+    400034: Gem_red_Sphere.013
+    400036: H Controller 1
+    400038: H Controller s 1
+    400040: H Controller s 5
+    400042: H Orrery
+    400044: H Orrery.001
+    400046: H souvenir
+    400048: //RootNode
+    400050: Ticket booth
+    2100000: Blue_glass
+    2100002: Hex stand
+    2100004: Gold
+    2100006: Velvet
+    2100008: Stand.001
+    2100010: Red_glass
+    2100012: Tempire_gloss
+    2100014: Indigo_glass
+    2100016: Violet_glass
+    2100018: Orange_glass
+    2100020: Yellow_glass
+    2100022: Green_glass
+    2100024: green_glass.001
+    2100026: Cyan_glossy
+    2100028: yellow_glass2
+    2100030: Green_glossy
+    2100032: blue_glass
+    2100034: Indigo_glossy
+    2100036: Indigo_glass_1
+    2100038: Violet_gloss.001
+    2100040: orange_glass
+    2100042: Yellow_Glossy
+    2100044: Violet_glass_2
+    2100046: Orange_glossy
+    2100048: Brass
+    2100050: Stand
+    2100052: Ticket booth
+    2300000: C Orrery stand
+    2300002: C Souvenir stand
+    2300004: C Viewfinder
+    2300006: C Viewfinder.001
+    2300008: Chair b 1
+    2300010: Chair b 2
+    2300012: Chair b 3
+    2300014: Chair b desk
+    2300016: Chair s 1
+    2300018: Chair s 2
+    2300020: Chair s 3
+    2300022: Chair s desk
+    2300024: Cylinder
+    2300026: Cylinder.001
+    2300028: Desk mid
+    2300030: Desk wing L
+    2300032: Desk wing r
+    2300034: Gem_red_Sphere.013
+    2300036: H Controller 1
+    2300038: H Controller s 1
+    2300040: H Controller s 5
+    2300042: H Orrery
+    2300044: H Orrery.001
+    2300046: H souvenir
+    2300048: Ticket booth
+    3300000: C Orrery stand
+    3300002: C Souvenir stand
+    3300004: C Viewfinder
+    3300006: C Viewfinder.001
+    3300008: Chair b 1
+    3300010: Chair b 2
+    3300012: Chair b 3
+    3300014: Chair b desk
+    3300016: Chair s 1
+    3300018: Chair s 2
+    3300020: Chair s 3
+    3300022: Chair s desk
+    3300024: Cylinder
+    3300026: Cylinder.001
+    3300028: Desk mid
+    3300030: Desk wing L
+    3300032: Desk wing r
+    3300034: Gem_red_Sphere.013
+    3300036: H Controller 1
+    3300038: H Controller s 1
+    3300040: H Controller s 5
+    3300042: H Orrery
+    3300044: H Orrery.001
+    3300046: H souvenir
+    3300048: Ticket booth
+    4300000: Cylinder.001
+    4300002: Cylinder
+    4300004: H Orrery.001
+    4300006: Desk wing r
+    4300008: Desk mid
+    4300010: Desk wing L
+    4300012: Chair s 3
+    4300014: Chair b 3
+    4300016: Chair s 2
+    4300018: Chair b 2
+    4300020: Chair s 1
+    4300022: Chair b 1
+    4300024: Chair s desk
+    4300026: Chair b desk
+    4300028: C Viewfinder.001
+    4300030: Gem_red_Sphere.013
+    4300032: H Controller s 5
+    4300034: H Controller s 1
+    4300036: H Controller 1
+    4300038: C Viewfinder
+    4300040: C Souvenir stand
+    4300042: C Orrery stand
+    4300044: H souvenir
+    4300046: H Orrery
+    4300048: Ticket booth
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

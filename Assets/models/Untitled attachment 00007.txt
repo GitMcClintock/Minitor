@@ -1,0 +1,5 @@
+
+That should give you all 6 walls now to fill in the basic room, and some portal states.
+The tricky bit will be designing the portal controls and states…
+
+
